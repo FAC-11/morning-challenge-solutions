@@ -24,5 +24,5 @@ All of your solutions in one place - use this to help you plan for FAC12
 ## Week 6 - Postgres
 
 ## Week 7 - Authentication
-
++ [Aisha, Rachael and Constantina ](./week-7/client-side-validation-arc)
 ## Week 8 - Express
