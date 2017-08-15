@@ -26,3 +26,5 @@ All of your solutions in one place - use this to help you plan for FAC12
 ## Week 7 - Authentication
 
 ## Week 8 - Express
+[Making An Animated App Drawer](https://github.com/Akin909/morning-challenge-animated-app-drawer)
++ [Amelie and Rachael Solution](./week-8/amelieandrachael)
